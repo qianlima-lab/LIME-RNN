@@ -1,6 +1,6 @@
 # LIME-RNN
 
-The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memory of Latent Variables](https://ieeexplore.ieee.org/document/8685795)" accepted at IEEE Transactions on Cybernetics.
+The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memory of Latent Variables](https://ieeexplore.ieee.org/document/8685795)" accepted by IEEE Transactions on Cybernetics.
 
 
 
