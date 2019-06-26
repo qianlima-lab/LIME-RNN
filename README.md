@@ -10,7 +10,6 @@ The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memo
 
 ## Reference
 
-If you think our work is useful, please cite the following
 
 ```
 @ARTICLE{Ma2019end, 
