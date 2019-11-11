@@ -4,7 +4,7 @@ The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memo
 
 
 
-## The code will be released soon.
+## The code will be released at the end of December.
 
 
 
