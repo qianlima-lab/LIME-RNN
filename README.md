@@ -4,7 +4,7 @@ The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memo
 
 
 
-# Description
+# Descriptions
 The demo for dataset 'SCITOS G5' with 50% missing ratio  
 The published imputation result: 0.170  
 data/raw.txt: raw_data for evaluation  
