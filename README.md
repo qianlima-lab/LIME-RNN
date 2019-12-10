@@ -5,12 +5,11 @@ The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memo
 
 
 # Description
-The demo for dataset 'SCITOS G5' with 50% missing ratio
-The published imputation result: 0.170
-data/raw.txt: raw_data for evaluation
-data/miss_data.txt: missing_data
-
-tf_version: 1.11.0
+The demo for dataset 'SCITOS G5' with 50% missing ratio\\
+The published imputation result: 0.170\\
+data/raw.txt: raw_data for evaluation\\
+data/miss_data.txt: missing_data\\
+tf_version: 1.11.0\\
 python_version: 2.7.17
 
 # Usage
