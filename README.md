@@ -4,9 +4,18 @@ The code for paper "[End-to-End Incomplete Time Series Modeling from Linear Memo
 
 
 
-## The code will be released at the end of December.
+# Description
+The demo for dataset 'SCITOS G5' with 50% missing ratio
+The published imputation result: 0.170
+data/raw.txt: raw_data for evaluation
+data/miss_data.txt: missing_data
 
+tf_version: 1.11.0
+python_version: 2.7.17
 
+# Usage
+Usage1: python LIMELSTM.py (train by yourself)
+Usage2: python LIMELSTM_trained.py (load the trained model)
 
 ## Reference
 
