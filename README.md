@@ -13,8 +13,8 @@ tf_version: 1.11.0
 python_version: 2.7.17  
 
 # Usage
-Usage1: python LIMELSTM.py (train by yourself)  
-Usage2: python LIMELSTM_trained.py (load the trained model)
+Usage1: python LIMELSTM.py
+
 
 ## Reference
 
