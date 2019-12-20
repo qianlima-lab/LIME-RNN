@@ -13,7 +13,7 @@ tf_version: 1.11.0
 python_version: 2.7.17  
 
 # Usage
-Usage1: python LIMELSTM.py
+Usage: python LIMELSTM.py
 
 
 ## Reference
